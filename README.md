@@ -40,7 +40,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com/your-ig">
+  <a href="https://www.instagram.com/ahmadlabibarifuddin/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
