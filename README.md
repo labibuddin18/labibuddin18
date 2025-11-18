@@ -10,10 +10,9 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I'm currently learning **JavaScript, PHP OOP, Laravel**
+- 🌱 I'm currently learning **PHP**
 - 👨‍💻 All of my projects are available here on **GitHub**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: *I love clean UI and minimalistic code*
+- 📫 How to reach me: **labibarifuddin18@gmail.com**
 
 ---
 
@@ -27,18 +26,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **PPDB Sekolah**
-Sistem pendaftaran siswa berbasis PHP & MySQL  
-👉 *Link Repo*: *masukkan di sini*
-
-### 🔹 **Dashboard Admin UI**
-Dashboard admin responsif menggunakan HTML & CSS  
-👉 *Link Repo*: *masukkan di sini*
 
 ---
 
