@@ -1,4 +1,4 @@
-## Hi My Name Ahmad Labib Arifuddin 👋
+## Hi My Name Labib 👋
 
 <!--
 **labibuddin18/labibuddin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
